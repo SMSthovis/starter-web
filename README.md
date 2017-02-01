@@ -8,6 +8,10 @@ This is how you do de stuffz.
 
 ## Purpose
 
+This is why you do de stuffz.
+
 ## Deployment
+
+This is how you launch de stuffz.
 
 ## How To Contribute
