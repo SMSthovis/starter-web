@@ -15,3 +15,8 @@ This is why you do de stuffz.
 This is how you launch de stuffz.
 
 ## How To Contribute
+
+
+### Copyright
+
+2017 Git.training
