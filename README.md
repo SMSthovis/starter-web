@@ -16,6 +16,8 @@ This is how you launch de stuffz.
 
 ## How To Contribute
 
+Fork me!
+
 
 ### Copyright
 
